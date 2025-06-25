@@ -68,10 +68,10 @@ export const config: TConfig = {
     },
   },
   sections: {
-    about: {
-      p: "Introduction",
-      h2: "Overview.",
-      content: `Guttula Siddharth (Siddu), a dedicated software developer and a passionate national-level badminton player. 
+  about: {
+    p: "Introduction",
+    h2: "Overview.",
+    content: `Guttula Siddharth (Siddu), a dedicated software developer and a passionate national-level badminton player. 
 I enjoy building impactful applications using modern technologies like React, Node.js, and MongoDB.
 
 My journey is a blend of tech and sports. On one hand, I love crafting real-world web projects and learning full-stack development. 
@@ -82,6 +82,10 @@ whether it’s through building apps or pushing my limits in sports.
 
 Contact me at guttulasiddharth1109@gmail.com. 
 I’m always eager to connect with fellow developers and sports enthusiasts, so feel free to reach out!`,
-    },
   },
-};
+  experience: {
+    p: "Work Experience",
+    h2: "Experience.",
+    content: "Here's a timeline of roles and companies I've worked with.",
+  },
+}
