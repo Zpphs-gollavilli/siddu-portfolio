@@ -67,7 +67,7 @@ export const config: TConfig = {
       },
     },
   },
-  sections: {
+ sections: {
   about: {
     p: "Introduction",
     h2: "Overview.",
@@ -86,6 +86,6 @@ I’m always eager to connect with fellow developers and sports enthusiasts, so 
   experience: {
     p: "Work Experience",
     h2: "Experience.",
-    content: "Here's a timeline of roles and companies I've worked with.",
+    content: "Here’s a summary of my professional and project experience.",
   },
 }
